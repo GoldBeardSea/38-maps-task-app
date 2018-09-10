@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title_activity_task_map">Map</string>
+    <string name="gpsOff">GPS Off</string>
+    <string name="myLocation">My Location</string>
+    <string name="gpsON">GPS On</string>
+    <string name="errands">Errands</string>
 </resources>
